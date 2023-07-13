@@ -4,9 +4,19 @@ The Hangman Game is a classic word guessing game where the player tries to guess
 
 This project implements the Hangman Game as a web application using Flask, HTML, CSS, and JavaScript. It allows users to play the game in their web browser.
 
+# Deployed game link 
+http://hangmman.pythonanywhere.com/
+
+# Connect with us on
+www.linkedin.com/in/glory-ogbondah 
+https://www.linkedin.com/in/solomon-addo-antiri-1015b8238/
+
+Read more on https://medium.com/@glory.ogbondah/9a9c9e42b842?source=friends_link&sk=297897665562cd95da74bde983595db7
+
 # Collaborators
 # Glory Ada Ogbondah: Backend developer
-Well, working behind the scenes has been something I really love, I love being able to create something that would be enjoyed and be of help to the society. I chose this game, because of it's educative contents, it aids vocabulary improvements, English language development and it's complete fun
+I am a backend developer as at the time of this publishing, an ALXSE student, I am an enthusiastic and motivated individual eager to learn and grow in the field of backend development. I have a solid foundation in programming concepts and a strong desire to gain practical experience in designing and building server-side applications. I am continuously expanding my knowledge of backend technologies, frameworks, and best practices, and I am dedicated to honing my skills in areas such as API development, database management, and system integration. With a passion for problem-solving and a commitment to delivering efficient and reliable solutions, I am excited to contribute to backend development projects and further enhance my abilities in this dynamic field.
+# Solomon Addo Antiri: Frontend Developer
 
 ## Features
 
